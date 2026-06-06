@@ -1,3 +1,6 @@
+new repo at: https://github.com/squall-cc/aspen-svelte/
+
+
 uhh
 aspen in svelte so i can do svg builds with xhtml without breaking stuff or smthn
 also open source
